@@ -23,3 +23,7 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+pre {
+    color: brown;
+}
